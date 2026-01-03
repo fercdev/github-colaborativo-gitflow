@@ -1,0 +1,4 @@
+archivo de cambios, sobre el primer status del proyecto colaborativo
+
+1- helloworld.js 
+    -> contenido del mensaje de bienvenida
