@@ -1,1 +1,3 @@
-console.log("migration script executed");
+console.log("migration script executed - CORREGIDO");
+
+console.log("FIN");
