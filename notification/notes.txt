@@ -1,3 +1,6 @@
 HU-001
 
 Historia para notificar usuarios
+
+
+HU-002
